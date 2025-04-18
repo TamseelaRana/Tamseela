@@ -1,4 +1,4 @@
-# Normalized Triangular MFs
+# Normalized Triangular MFs Code
 !pip install -q scikit-fuzzy
 import numpy as np
 import pandas as pd
