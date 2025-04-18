@@ -1,7 +1,7 @@
 #Topological Indices Code
-import numpy as np\\
+import numpy as np
 
-n =11\\
+n =11
 X = [3,5,6,7,6,3,6,7,5,4,4]
 Y = [5,6,7,9,9,6,6,7,7,5,4]
 Z = [1,2,4,1,2,2,2,1,2,2,2]
